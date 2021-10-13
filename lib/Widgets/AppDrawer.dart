@@ -35,7 +35,7 @@ class AppDrawer extends StatelessWidget {
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
               ),
-               ListTile(
+              ListTile(
                 leading: Icon(
                   CupertinoIcons.profile_circled,
                   color: Colors.white,
@@ -47,7 +47,7 @@ class AppDrawer extends StatelessWidget {
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
               ),
-               ListTile(
+              ListTile(
                 leading: Icon(
                   CupertinoIcons.settings,
                   color: Colors.white,
@@ -59,7 +59,7 @@ class AppDrawer extends StatelessWidget {
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
               ),
-               ListTile(
+              ListTile(
                 leading: Icon(
                   CupertinoIcons.mail,
                   color: Colors.white,
